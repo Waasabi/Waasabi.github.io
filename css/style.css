@@ -1,0 +1,84 @@
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h2{font-family: sans-serif;
+text-decoration: underline;
+}
+
+li{
+  font-family: fantasy;
+}
+
+p{
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: #D3D3D3;
+  height: 1000px;
+  width: auto;
+}
+
+form{
+  border-style: solid;
+  padding: 15px;
+  background-color: white;
+  width: 200px;
+  height: 150px;
+  text-align:  center;
+
+}
+
+input[type=button]{
+  color:black;
+  background-color:white;
+  padding: 5px;
+  margin-top: 8px;
+}
+#git{
+  width: 100px;
+  height:100px;
+}
+#hr{
+  width: 100px;
+  height: 100px;
+}
+#HomeImg{
+  width: 300px;
+  height: 300px;
+  display: block;
+  position: relative;
+
+}
+nav{
+  position: relative;
+
+}
+.nav{
+  border: 5px;
+  border-style: solid;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+}
+.nav:hover{
+  background-color:white;
+}
+#intro{
+  width: 300px;
+  text-align: center;
+}
+
+input[type='button']{
+  border-radius:20px;
+}
+
+.parent{
+  margin-left: 40%;
+
+}
